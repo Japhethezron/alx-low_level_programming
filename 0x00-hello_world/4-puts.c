@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
- * @int: Integer returns zero 
- *
- * return: Always 0 (Success)
+ * main - Entry Point
+ * @0: Return value 0
+(*
+ * Description: main is the entry point)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
