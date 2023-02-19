@@ -2,7 +2,7 @@
 
 /**
  * main - Entry Point
- * @0: Return value 0
+ * @0: Return value
 (*
  * Description: main is the entry point)
  * Return: Always 0 (Success)
