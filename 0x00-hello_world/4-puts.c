@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * 
- * description: Main is the entry point 
+ * main - Entry point 
+ * @int: Integer returns zero 
  *
  * return: Always 0 (Success)
  */
