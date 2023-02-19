@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  * 
- * description: Main is the entry point
+ * description: Main is the entry point 
+ *
  * return: Always 0 (Success)
  */
 int main(void)
