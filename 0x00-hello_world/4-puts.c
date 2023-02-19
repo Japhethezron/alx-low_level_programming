@@ -2,7 +2,7 @@
 
 /**
  * main - Entry Point
- * @0: Return value
+ * @main: Return value is void
 (*
  * Description: main is the entry point)
  *
